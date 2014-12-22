@@ -19,7 +19,7 @@ You can run the program like every ordinary Java main program. Make sure you hav
 At least one of the seed-nodes needs to be up for the other nodes to join the cluster.
 
 ## Example
-Run a node with `2550`
-Run a node with `0 message-sender`
-View results (messages should be handled 3 at a time in a round-robin fashion over the nodes)
-Add a node with `0` and view results.
+1. Run a node with `2550`  
+2. Run a node with `0 message-sender`  
+3. View results (messages should be handled 3 at a time in a round-robin fashion over the nodes)  
+4. Add a node with `0` and view results.
